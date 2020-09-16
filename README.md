@@ -9,4 +9,4 @@ streamlit run English_NewsRecommendationEngine.py
 
 streamlit run Nepali_NewsRecommendationEngine.py
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/sandeshshrestha45/News-Recommendation-Engine/screenshot.jpg?raw=true)
